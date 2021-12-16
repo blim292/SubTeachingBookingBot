@@ -5,3 +5,5 @@ This bot was developed to automate the process of finding a substitute teaching 
 This bot scrapes the website looking for openings and when found, relays a message via email to the individual, allowing them to log onto the site to book the position.
 
 By running this bot, the individual was able to, on average, secure 3-4 substitute positions a week in comparison to 1 substitute position without use of the bot while manually refreshing on the site ~1 hour a day.   
+
+Note: repo has been recreated to redact private information.
